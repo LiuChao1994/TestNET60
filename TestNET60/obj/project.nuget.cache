@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "FHjCRKIvS+8m/xsXwrFpUEa8bv+YAQn4GREpzBBYeDlCw0S5D36KNe47T8tFM9S90EXu3s7TdEmQlrzswgtQwg==",
+  "success": true,
+  "projectFilePath": "E:\\TestDome\\TestDome2\\TestNET60\\TestNET60\\TestNET60.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\13487\\.nuget\\packages\\communitytoolkit.mvvm\\8.1.0\\communitytoolkit.mvvm.8.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
